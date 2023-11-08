@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.atas{
+    display: flex;
+    justify-content: space-between;
+}
+.kotak{
+    height: 500px;
+    width: 100px;
+    border: 1px solid;  
+}
+.kuning{
+    background-color: yellow;
+    width: 15%;
+    height: 500px;
+}
+.abu-abu{
+    background-color: grey;
+    width: 65%;
+    height: 500px;
+}
+.merah{
+    background-color: red;
+    width: 15%;
+    height: 500px;
+}
+.biru{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    margin-top: 50px;
+}
+.blue{
+    background-color: aqua;
+    width: 1100px;
+    height: 500px;
+}
+.green{
+    background-color: green;
+    width: 15%;
+    height: 100px;
+    margin-bottom: 50px;
+}
+.pink{
+    background-color: pink;
+    width: 83%;
+    height: 100px;
+}
